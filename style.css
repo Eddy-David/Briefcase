@@ -27,7 +27,7 @@
   margin: 20px;
 }
 .hero{
-  
+
 background: 
     linear-gradient(transparent 70%,#000),
     url('img.jpg') center/cover no-repeat;
@@ -72,7 +72,7 @@ align-items: center;
 .section-info{
   display: flex;
   width: 100%;
-  height: 530px;
+  height: 100vh;
   background-color: #000;
   justify-content: center;
   align-items: center;
